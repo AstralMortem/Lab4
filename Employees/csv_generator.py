@@ -54,6 +54,3 @@ def write_csv(filename: str, num_records: int = 2000):
 
         for _ in range(female_count):
             writer.writerow(generator("Жінка"))
-
-
-write_csv("employees.csv")
