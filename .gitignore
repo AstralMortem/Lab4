@@ -1,0 +1,4 @@
+.Chaliuk
+*.csv
+*.xlsx
+__pycache__
